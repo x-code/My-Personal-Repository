@@ -7,11 +7,15 @@ I'm a software engineer who is passionate about creating technology.  I enjoy wo
 
 ## 🛠 Tech Stack
 
-**Client:** React, Redux,  Flutter, Drupal, Wordpress, JavaScript, jQuery, CSS, SCSS
+**Front End:** React, Redux, Angular Js, Vue Js, Flutter, Drupal, Wordpress, JavaScript, jQuery, CSS, SCSS
 
-**Server:** PHP, Laravel,  Node Js, Pyhton, Java, Golang, ASP.NET.
+**Back End:** PHP, Phalcon, Codeigniter, Laravel,  Node Js, Pyhton, Java, Golang, Ruby on Rails, ASP.NET.
+
+**Server:** Apache, Nginx, AWS, GCP, VM.
 
 **CI/CD:** Git, Jenkins, Dockerization, Shell Scripting.
+
+**Infrastructure:** Monolithic, Microservices.
 
 **Deployment Test:** Mocha/chai (unit test), Locust (stress test).
 
