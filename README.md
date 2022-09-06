@@ -25,7 +25,7 @@ I'm a software engineer who is passionate about creating technology.  I enjoy wo
 **Deployment Test:** Mocha/chai (unit test), Locust (stress test).
 
 ## Find me around the web 🌎:
-- Order Web <a href="https://api.whatsapp.com/send?phone=6289654604068&text=Saya%20tertarik%20dengan%20profile%20kamu">WhatsApp</a> 📹 ✍🏾
+- Interactions on <a href="https://api.whatsapp.com/send?phone=6289654604068&text=Saya%20tertarik%20dengan%20profile%20kamu">WhatsApp</a> 📹 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/rian-firandika-598b2787">LinkedIn</a> 💼
 
 ## ⏱ Github Stats
