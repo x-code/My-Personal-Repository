@@ -2,7 +2,7 @@
 
 I'm a software engineer who is passionate about creating technology.  I enjoy working with include many programming language.
 
-![banner](https://github.com/x-code/x-code/blob/main/main-slide-img.png?style=for-the-badge&logo=linkedin&logoColor=white)
+![linkedin](https://github.com/x-code/x-code/blob/main/main-slide-img.png?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ## 🛠 Tech Stack
