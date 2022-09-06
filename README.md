@@ -13,7 +13,7 @@ I'm a software engineer who is passionate about creating technology.  I enjoy wo
 
 **Server:** Apache, Nginx, AWS, GCP, VM.
 
-**CI/CD:** Git, Jenkins, Dockerization, Krakend Gateway, Shell Scripting.
+**CI/CD:** Git, Jenkins, Dockerization, Krakend Gateway, Shell Scripting, Redis, RabbitMQ.
 
 **Infrastructure:** Monolithic, Microservices, IOT with Arduino.
 
