@@ -15,7 +15,7 @@ I'm a software engineer who is passionate about creating technology.  I enjoy wo
 
 **CI/CD:** Git, Jenkins, Dockerization, Shell Scripting.
 
-**Infrastructure:** Monolithic, Microservices.
+**Infrastructure:** Monolithic, Microservices, IOT with Arduino.
 
 **Deployment Test:** Mocha/chai (unit test), Locust (stress test).
 
