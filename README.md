@@ -24,3 +24,20 @@ I'm a software engineer who is passionate about creating technology.  I enjoy wo
 
 **Deployment Test:** Mocha/chai (unit test), Locust (stress test).
 
+## Find me around the web 🌎:
+- Order Web <a href="https://api.whatsapp.com/send?phone=6289654604068&text=Saya%20tertarik%20dengan%20profile%20kamu">WhatsApp</a> 📹 ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/rian-firandika-598b2787">LinkedIn</a> 💼
+
+## ⏱ Github Stats
+
+<div align="center">
+  <img alt="Rian Firandika Profile View Counter" src="https://komarev.com/ghpvc/?username=x-code&color=8B5CF6&style=flat-square&label=MY+PROFILE+VIEWS"/>
+
+  </br>
+  </br>
+
+  <img alt="Rian Firandika Github Stats" src="https://github-readme-stats.vercel.app/api?username=x-code&show_icons=true&theme=shades-of-purple&hide_border=true&count_private=true" height="160"/>
+
+  <img alt="Rian Firandika Github Most Used Languanges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-code&layout=compact&hide=shell&theme=shades-of-purple&hide_border=true" height="160"/>
+</div>
+
