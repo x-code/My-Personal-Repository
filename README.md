@@ -2,7 +2,7 @@
 
 I'm a software engineer who is passionate about creating technology.  I enjoy working with include many programming language.
 
-![linkedin](https://raw.githubusercontent.com/maulanakevinp/lavinza/master/assets/img/main-slide-img1.png?style=for-the-badge&logo=linkedin&logoColor=white)
+![banner](https://github.com/x-code/x-code/blob/main/main-slide-img.png?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ## 🛠 Tech Stack
